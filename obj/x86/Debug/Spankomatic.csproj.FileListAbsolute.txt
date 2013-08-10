@@ -33,3 +33,5 @@ C:\Users\Simon\Desktop\spank\obj\x86\Debug\Spankomatic.Properties.Resources.reso
 C:\Users\Simon\Desktop\spank\obj\x86\Debug\Spankomatic.RegisterJobbare.resources
 C:\Users\Simon\Desktop\spank\obj\x86\Debug\Spankomatic.Statistics.resources
 C:\Users\Simon\Desktop\spank\obj\x86\Debug\Spankomatic.csproj.GenerateResource.Cache
+C:\Git\spankomatic2.0\obj\x86\Debug\Spankomatic.exe
+C:\Git\spankomatic2.0\obj\x86\Debug\Spankomatic.pdb
