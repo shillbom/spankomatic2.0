@@ -1,0 +1,7 @@
+C:\Users\Sami Huutoniemi\documents\visual studio 2010\Projects\Spankomatic\Spankomatic\bin\Release\Spankomatic.exe
+C:\Users\Sami Huutoniemi\documents\visual studio 2010\Projects\Spankomatic\Spankomatic\bin\Release\Spankomatic.pdb
+C:\Users\Sami Huutoniemi\documents\visual studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Release\Spankomatic.Spankomatic.resources
+C:\Users\Sami Huutoniemi\documents\visual studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Release\Spankomatic.Properties.Resources.resources
+C:\Users\Sami Huutoniemi\documents\visual studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Release\Spankomatic.csproj.GenerateResource.Cache
+C:\Users\Sami Huutoniemi\documents\visual studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Release\Spankomatic.exe
+C:\Users\Sami Huutoniemi\documents\visual studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Release\Spankomatic.pdb

@@ -1,0 +1,35 @@
+c:\users\sami huutoniemi\documents\visual studio 2010\Projects\Spankomatic\Spankomatic\bin\Debug\Spankomatic.exe
+c:\users\sami huutoniemi\documents\visual studio 2010\Projects\Spankomatic\Spankomatic\bin\Debug\Spankomatic.pdb
+c:\users\sami huutoniemi\documents\visual studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Debug\Spankomatic.Properties.Resources.resources
+c:\users\sami huutoniemi\documents\visual studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Debug\Spankomatic.csproj.GenerateResource.Cache
+c:\users\sami huutoniemi\documents\visual studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Debug\Spankomatic.exe
+c:\users\sami huutoniemi\documents\visual studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Debug\Spankomatic.pdb
+C:\Users\Sami Huutoniemi\documents\visual studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Debug\Spankomatic.Spankomatic.resources
+C:\Users\local.admin\Documents\Visual Studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Debug\Spankomatic.exe
+C:\Users\local.admin\Documents\Visual Studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Debug\Spankomatic.pdb
+C:\Users\local.admin\Documents\Visual Studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Debug\Spankomatic.Spankomatic.resources
+C:\Users\local.admin\Documents\Visual Studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Debug\Spankomatic.Properties.Resources.resources
+C:\Users\local.admin\Documents\Visual Studio 2010\Projects\Spankomatic\Spankomatic\bin\Debug\Spankomatic.exe
+C:\Users\local.admin\Documents\Visual Studio 2010\Projects\Spankomatic\Spankomatic\bin\Debug\Spankomatic.pdb
+C:\Users\local.admin\Documents\Visual Studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Debug\Spankomatic.mackForm.resources
+C:\Users\local.admin\Documents\Visual Studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Debug\Spankomatic.Statistics.resources
+C:\Users\local.admin\Documents\Visual Studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Debug\Spankomatic.LoginForm.resources
+C:\Users\local.admin\documents\visual studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Debug\Spankomatic.RegisterJobbare.resources
+C:\Users\Sami Huutoniemi\Documents\Visual Studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Debug\Spankomatic.LoginForm.resources
+C:\Users\Sami Huutoniemi\Documents\Visual Studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Debug\Spankomatic.mackForm.resources
+C:\Users\Sami Huutoniemi\Documents\Visual Studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Debug\Spankomatic.RegisterJobbare.resources
+C:\Users\Sami Huutoniemi\Documents\Visual Studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Debug\Spankomatic.Statistics.resources
+C:\Users\local.admin\Documents\Visual Studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Debug\Spankomatic.InkopslistaForm.resources
+C:\Users\local.admin\Documents\Visual Studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Debug\Spankomatic.csprojResolveAssemblyReference.cache
+C:\Users\local.admin\Documents\Visual Studio 2010\Projects\Spankomatic\Spankomatic\obj\x86\Debug\Spankomatic.csproj.GenerateResource.Cache
+C:\Users\Simon\Desktop\spank\obj\x86\Debug\Spankomatic.exe
+C:\Users\Simon\Desktop\spank\obj\x86\Debug\Spankomatic.pdb
+C:\Users\Simon\Desktop\spank\obj\x86\Debug\Spankomatic.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Desktop\spank\obj\x86\Debug\Spankomatic.Spankomatic.resources
+C:\Users\Simon\Desktop\spank\obj\x86\Debug\Spankomatic.InkopslistaForm.resources
+C:\Users\Simon\Desktop\spank\obj\x86\Debug\Spankomatic.LoginForm.resources
+C:\Users\Simon\Desktop\spank\obj\x86\Debug\Spankomatic.mackForm.resources
+C:\Users\Simon\Desktop\spank\obj\x86\Debug\Spankomatic.Properties.Resources.resources
+C:\Users\Simon\Desktop\spank\obj\x86\Debug\Spankomatic.RegisterJobbare.resources
+C:\Users\Simon\Desktop\spank\obj\x86\Debug\Spankomatic.Statistics.resources
+C:\Users\Simon\Desktop\spank\obj\x86\Debug\Spankomatic.csproj.GenerateResource.Cache
